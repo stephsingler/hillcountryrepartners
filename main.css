@@ -6,3 +6,6 @@ h2 {
   color: #161377;
   text-decoration: underline;
 }
+p {
+  line-height: .5rem;
+}
